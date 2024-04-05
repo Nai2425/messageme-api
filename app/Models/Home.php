@@ -13,6 +13,7 @@ class Home extends Model
         'firstname',
         'lastname',
         'middlename',
+        'email',
         'password',
         'gender',
         'is_verified',
